@@ -1,0 +1,15 @@
+{
+  "name": "maksimru/composer-private-repository-test",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Maksim Martianov",
+      "email": "maxmru@yandex.ru"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^5.3"
+  }
+}
